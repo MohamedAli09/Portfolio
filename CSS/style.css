@@ -75,7 +75,7 @@
  
  .content-of-home{
     position: relative; 
-  z-index: 9999 ;
+  z-index: 0 ; 
    
 
  } 
